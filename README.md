@@ -1,3 +1,5 @@
+> This is an improved version of [Gazebo](https://bitbucket.org/osrf/gazebo/) (fix Actor distortion, see [pull request](https://bitbucket.org/osrf/gazebo/pull-requests/2957/modified-actor-to-overcome-the-distortion/diff))
+
 Gazebo - A dynamic multi-robot simulator
 ----------------------------------------
 
